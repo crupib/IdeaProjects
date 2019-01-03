@@ -43,6 +43,7 @@ public class Main {
       numbers[2] = 22;
       numbers[3] = 98;
       numbers[4] = 10;
+      numbers[4] = 10;
 
     }
 }
