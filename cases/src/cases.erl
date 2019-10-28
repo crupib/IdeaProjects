@@ -46,4 +46,12 @@ start() ->
   io:nl(),
   U = insert(X,[3,4]),
   io:fwrite("~w~n",[U]),
-  io:nl().
+  io:nl(),
+  A = list_to_integer("54"),
+  io:fwrite("~w~n",[A]),
+  io:nl(),
+  B = list_to_float("54.32"),
+  io:fwrite("~w~n",[B]),
+  io:nl(),
+  C = is_binary(<<01001>>),
+  io:fwrite("~w~n",[C]).
