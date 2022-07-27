@@ -1,6 +1,5 @@
 import decimal
-import json
-from urllib.request import urlopen
+
 
 def factorial(n):
     if n < 2:
@@ -14,7 +13,7 @@ def factorial(n):
 cliches = [ "At the end of the day" , "Having said that" ,
             "The fact of the matter is" , "Be that as it may" ,
             "The bottom line is" , "If you will" , ]
-print ( cliches [ 3 ])
+print( cliches [ 3 ])
 
 print(factorial(5))
 print(factorial(50))
@@ -26,7 +25,7 @@ print(c)
 quotes = { "Moe" : "A wise guy, huh?" ,
            "Larry" : "Ow!" ,
            "Curly" : "Nyuk nyuk!" , }
-stooge = "Curly"
+stooge = "Moe"
 print ( stooge , "says:" , quotes [ stooge ])
 
 

@@ -1,26 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b660c3f6-3664-402a-9100-958489194398" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b660c3f6-3664-402a-9100-958489194398" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cases/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_rust/hello_rust.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytest/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/rust_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/rust_hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/rusthw1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/helloworld/helloworld.beam" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/out/production/helloworld/helloworld.beam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/test/helloworld/helloworld.beam" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/out/test/helloworld/helloworld.beam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/HelloWorld.erl" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/HelloWorld.erl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cases/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cases/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cases/cases.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cases/cases.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/groovy_hello_world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/groovy_hello_world.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/out/production/groovy_hello_world/hello_world.class" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/out/production/groovy_hello_world/hello_world.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytest/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pytest/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytest/pytest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pytest/pytest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/safecall/META-INF/safecall.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/safecall/META-INF/safecall.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/safecall/SafecallKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/safecall/SafecallKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/safecall.iml" beforeDir="false" afterPath="$PROJECT_DIR$/safecall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sureop/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sureop/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sureop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sureop/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/safecall.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,12 +71,20 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/safecall.kt" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-for-desktop" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="0ebj5qo9" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="41" />
@@ -42,55 +92,26 @@
     <option name="width" value="1144" />
     <option name="height" value="694" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="safecall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="safecall" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1aeIuq5Y35ClBmDAiF8sSCkMoLp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546135855435" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "ruby.rails.projectView.checked": "true"
+  }
+}]]></component>
   <component name="RunManager">
-    <configuration name="SafecallKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="safecall" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="SafecallKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SafecallKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="safecall" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,6 +122,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -112,57 +134,14 @@
       <option name="presentableId" value="Default" />
       <updated>1546134899891</updated>
       <workItem from="1546134901445" duration="957000" />
+      <workItem from="1587089871362" duration="60000" />
+      <workItem from="1658790310816" duration="758000" />
+      <workItem from="1658795135161" duration="40000" />
+      <workItem from="1658884166241" duration="415000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="957000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="41" y="23" width="1144" height="694" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954627" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32890365" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/safecall.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <option name="version" value="3" />
   </component>
 </project>

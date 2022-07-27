@@ -2,39 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2228a3d-1b0d-4089-966c-e99d6c814fdd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/emacs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.erl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pytest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pytest/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pytest/pytest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/Hello-World.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/out/production/Hello-World/Hello_WorldKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/out/production/Hello-World/META-INF/Hello-World.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello-World/src/Hello-World.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cases/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_rust/hello_rust.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/rust_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/rust_hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/rusthw1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sureop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sureop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cases/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cases/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cases/cases.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cases/cases.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/groovy_hello_world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/groovy_hello_world.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/out/production/groovy_hello_world/hello_world.class" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/out/production/groovy_hello_world/hello_world.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../safecall/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../safecall/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../safecall/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../safecall/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,9 +50,7 @@
     <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,35 +62,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-for-desktop" />
+    <option name="namespace" value="default" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="PRdSpydu" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1SOSLujD2EWtYSzH9fYvLoGEwqJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "ruby.rails.projectView.checked": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Erlang Application.helloworld.start">
     <configuration default="true" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="helloworld" />
       <option name="allowRunningInParallel" value="false" />
@@ -130,7 +131,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="helloworld.hello_world" type="ErlangApplicationRunConfiguration" factoryName="Erlang" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="helloworld" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="erlFlags" value="" />
+      <option name="moduleAndFunction" value="helloworld hello_world" />
+      <option name="params" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useTestCodePath" value="false" />
+      <option name="workDirectory" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloworld.start" type="ErlangApplicationRunConfiguration" factoryName="Erlang" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="helloworld" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="erlFlags" value="" />
+      <option name="moduleAndFunction" value="helloworld start" />
+      <option name="params" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useTestCodePath" value="false" />
+      <option name="workDirectory" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Erlang Application.helloworld.start" />
+        <item itemvalue="Erlang Application.helloworld.hello_world" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -144,20 +200,20 @@
       <workItem from="1571433097562" duration="360000" />
       <workItem from="1571433493732" duration="46000" />
       <workItem from="1571436807284" duration="919000" />
+      <workItem from="1637500992259" duration="620000" />
+      <workItem from="1658789483189" duration="810000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>

@@ -2,27 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2e84800-f99c-4e08-b3ef-8a9a3f4b2298" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cases/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_rust/hello_rust.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytest/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_1/rust_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust_hw/rust_hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rusthw1/rusthw1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../safecall/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../safecall/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/helloworld/helloworld.beam" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/out/production/helloworld/helloworld.beam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/test/helloworld/helloworld.beam" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/out/test/helloworld/helloworld.beam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/HelloWorld.erl" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/HelloWorld.erl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cases/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cases/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cases/cases.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../cases/cases.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/groovy_hello_world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/groovy_hello_world.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../groovy_hello_world/out/production/groovy_hello_world/hello_world.class" beforeDir="false" afterPath="$PROJECT_DIR$/../groovy_hello_world/out/production/groovy_hello_world/hello_world.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytest/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pytest/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytest/pytest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pytest/pytest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../safecall/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../safecall/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../safecall/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../safecall/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../safecall/out/production/safecall/META-INF/safecall.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../safecall/out/production/safecall/META-INF/safecall.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../safecall/out/production/safecall/SafecallKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../safecall/out/production/safecall/SafecallKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../safecall/safecall.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../safecall/safecall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sureop.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,12 +81,22 @@
       </list>
     </option>
   </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-for-desktop" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="xc37v59n" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="26" />
     <option name="y" value="45" />
     <option name="width" value="1144" />
     <option name="height" value="694" />
   </component>
+  <component name="ProjectId" id="2CSNyLD2rZkCl1SIC9wRKyIEG6h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -68,36 +118,21 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546136424506" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
   <component name="RunManager">
-    <configuration name="SureopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="sureop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="SureopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SureopKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="sureop" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,6 +143,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -125,6 +161,11 @@
       <workItem from="1559605643997" duration="99000" />
       <workItem from="1559605819036" duration="24000" />
       <workItem from="1559605877674" duration="23000" />
+      <workItem from="1658792280825" duration="262000" />
+      <workItem from="1658792785006" duration="247000" />
+      <workItem from="1658794160086" duration="130000" />
+      <workItem from="1658794374761" duration="115000" />
+      <workItem from="1658884597663" duration="23000" />
     </task>
     <servers />
   </component>
@@ -166,7 +207,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/sureop.kt">
