@@ -1,0 +1,2 @@
+module groovy.hello.word {
+}
