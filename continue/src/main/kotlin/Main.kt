@@ -1,5 +1,10 @@
 fun main(args: Array<String>) {
     println("Hello World!")
+    goover@ for(x in 1..4){
+        if (x == 3)
+            continue@goover
+            println("x = $x")
+    }
     var num = 0
     while (num < 10) {
         num++
